@@ -18,5 +18,5 @@
 
 ## **How to use**  
 1. Install all requirements
-2. ​Configure Paths
+2. ​Configure paths
 3. Run main.py
