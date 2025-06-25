@@ -4,6 +4,7 @@ config.py - Configuration file for the project. Can also be modified directly in
 dataset.py - Handles dataset partitioning and loading.
 ResNetSE34L.py - The main model architecture of the project.
 MFCC.py - Modified MFCC feature extraction method.
+
 System Components:
 Neural Network Training
 Feature Vector Extraction
