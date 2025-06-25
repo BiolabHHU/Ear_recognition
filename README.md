@@ -4,7 +4,8 @@
 - **`config.py`** - Configuration file for the project. Can also be modified directly in `main.py`.  
 - **`dataset.py`** - Handles dataset partitioning and loading.  
 - **`ResNetSE34L.py`** - The main model architecture of the project.  
-- **`MFCC.py`** - Modified MFCC feature extraction method.  
+- **`MFCC.py`** - Modified MFCC feature extraction method.
+- ​**`data_100/`**​ - Experimental dataset containing 100 speakers' biometric data.
 
 ## **System Components**  
 1. **Training the neural network**  
@@ -15,4 +16,5 @@
 
 ## **How to use**  
 1. **Install all requirements**
-2. **Run main.py**
+2. ​**Configure Paths**
+3. **Run main.py**
