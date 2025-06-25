@@ -10,4 +10,9 @@
 1. **Training the neural network**  
 2. **​Extract the feature vectors**  
 3. **Training the PLDA**  
-4. **Testing the PLDA**  
+4. **Testing the PLDA**
+
+
+## **How to use**  
+1. **Install all requirements**
+2. **Run main.py**
