@@ -7,7 +7,7 @@
 - **`dataset.py`** - Handles dataset partitioning and loading.  
 - **`ResNetSE34L.py`** - The main model architecture of the project.  
 - **`MFCC.py`** - Modified MFCC feature extraction method.
-- ​**`data_100/`**​ - Experimental dataset containing 100 speakers' biometric data.
+- ​**`data_100`**​ - Experimental dataset containing 100 speakers' biometric data.
 
 ## **System Components**  
 1. **Training the neural network**  
