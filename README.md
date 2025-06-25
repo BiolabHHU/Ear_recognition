@@ -7,7 +7,7 @@
 - **`MFCC.py`** - Modified MFCC feature extraction method.  
 
 ## **System Components**  
-1. **Neural Network Training**  
-2. **Feature Vector Extraction**  
-3. **PLDA Training**  
-4. **PLDA Testing**  
+1. **Training the neural network**  
+2. **​Extract the feature vectors**  
+3. **Training the PLDA**  
+4. **Testing the PLDA**  
