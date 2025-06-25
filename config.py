@@ -1,0 +1,36 @@
+class Config:
+    def __init__(self,
+                 batch_size=256,
+                 input_size=13,
+                 hidden_size=256,
+                 num_classes=80,
+                 x_vector_size=256,
+                 x_vec_extract_layer=6,
+                 learning_rate=0.001,
+                 num_epochs=40,
+                 batch_norm=True,
+                 dropout_p=0.0,
+                 plda_rank_f=15,
+                 checkpoint_path='none',
+                 data_folder_path='/home/hhdx/PycharmProjects/yyds/yds_paper/ear_recognition',
+                 train_x_vector_model=1,
+                 extract_x_vectors=1,
+                 train_plda=1,
+                 test_plda=1):
+        self.batch_size = batch_size
+        self.input_size = input_size
+        self.hidden_size = hidden_size
+        self.num_classes = num_classes
+        self.x_vector_size = x_vector_size
+        self.x_vec_extract_layer = x_vec_extract_layer
+        self.learning_rate = learning_rate
+        self.num_epochs = num_epochs
+        self.batch_norm = batch_norm
+        self.dropout_p = dropout_p
+        self.plda_rank_f = plda_rank_f
+        self.checkpoint_path = checkpoint_path
+        self.data_folder_path = data_folder_path
+        self.train_x_vector_model = train_x_vector_model
+        self.extract_x_vectors = extract_x_vectors
+        self.train_plda = train_plda
+        self.test_plda = test_plda

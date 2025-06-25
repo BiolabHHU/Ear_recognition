@@ -1,0 +1,6 @@
+batch_norm: true
+batch_size: 256
+data_folder_path: /home/hhdx/PycharmProjects/yyds/yds_paper/ear_recognition
+learning_rate: 0.001
+nOut: 256
+num_classes: 60
