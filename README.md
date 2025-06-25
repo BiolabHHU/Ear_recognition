@@ -1,3 +1,5 @@
+## **Speaker Recognition System Based on Earprint and Voiceprint Features**
+
 ## **File Overview**
 
 - **`main.py`** - The core file of the project. Execute this file to run the program.  
